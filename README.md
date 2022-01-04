@@ -1,4 +1,4 @@
-# Streaming-Data-Pipeline
+# Streaming-DataPipeline
 Let’s assume that our data is stored on the Kafka cluster and it should be moved to another storage layer which is will be HBase in this case. And few transformations need to be made before data is moved. These steps can be depicted as below architecture. <br/>
 
 ![image-2](https://user-images.githubusercontent.com/58120325/120442141-99015480-c385-11eb-919f-806947bb5069.png)<br/>
